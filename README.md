@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 ---
 
-### Example Outlook
+### Outlook
 
 Future improvements aim to optimize computational efficiency and improve the accuracy of hierarchical categorizations, aligning the approach more closely with real-world complexities and large-scale data needs.
 
