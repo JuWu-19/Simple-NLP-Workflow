@@ -78,4 +78,5 @@ Future improvements aim to optimize computational efficiency and improve the acc
 
 --- 
 
-For more information or issues, feel free to contact the repository owner.
+For more information or issues, feel free to contact the repository owner. [Visit Ju Wu's Website](https://juwu-19.github.io/neo/)
+
