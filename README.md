@@ -50,7 +50,7 @@ This project applies Natural Language Processing (NLP) techniques to automate th
 
 - **Adaptive Categories**:
   - Conduct global semantic identification to dynamically establish hierarchical categories that better capture real-world complexities when scaling data.
-  - Due to the interdisciplinary nature of real-world industrial sectors, tree-like hierarchical categories may cause confusion. For instance, 'device design and manufacturing to support drug research' cannot be simply categorized under level 1 categories like 'engineering' or 'medicine.' Otherwise, there would be no fitting subcategories under either of the two categories for further refinement. Semantic label-based networks or descriptive methods can be used instead.
+  - Due to the interdisciplinary nature of real-world industrial sectors, tree-like hierarchical categories may cause confusion. For instance, 'device design and manufacturing to support drug research' cannot be simply categorized under level 1 categories like 'education & research' or 'engineering' or 'medicine.' Otherwise, there would be no fitting subcategories under either of the two categories for further refinement. Semantic label-based networks or descriptive methods can be used instead. The 'entity-function-context' ontology can be used to evaluate categories in different levels in parallel way rather than trace the hierarchy of the tree to identify relevant sub-categorical nodes.
 
 - **Enhanced Models**:
   - Utilize local open-sourced or commercial large language models (LLMs) or access advanced APIs to improve category representation and matching accuracy.
